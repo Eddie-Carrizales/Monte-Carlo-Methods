@@ -18,7 +18,5 @@ Answer = 1
 e)	 A wooden house is located in the northeastern corner of the forest. Would you advise the owner that their house is in real danger? <br />
 Answer = The probability of his house catching fire is 0.767, so yes! I would advise the owner to leave their house immediately!
 
-![Results](https://github.com/Eddie-Carrizales/Monte-Carlo-Methods/blob/main/Images/image1.png)
-
 
 ![Forest Fire](https://github.com/Eddie-Carrizales/Monte-Carlo-Methods/blob/main/Images/forestfire.png)
